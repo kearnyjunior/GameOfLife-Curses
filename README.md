@@ -115,3 +115,4 @@ Launch the Game!
 
 `./GameOfLife`
 
+[![Run on Repl.it](https://repl.it/badge/github/kirpichik/GameOfLife-Curses)](https://repl.it/github/kirpichik/GameOfLife-Curses)
